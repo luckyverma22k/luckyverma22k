@@ -9,6 +9,13 @@
 
 <br>
 
+- Hi, My name is Lucky 👋
+- When not struggling to pass exams, I sometimes code 🤓
+- Learning Web Dev and Programming currently 👀
+- I generally like to do programming in C++ ✨
+
+<br>
+
 - 💬 Ask me about **Express js,React js,Node js,HTML,CSS,JS and programming**
 
 - 📫 How to reach me **luckyverma22k@gmail.com**
